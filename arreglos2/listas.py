@@ -9,6 +9,7 @@ print(mis_juegos)
 mis_juegos.pop(1)
 print(mis_juegos)
 
+#ordenar en orden alfabetico
 mis_juegos.sort()
 print(mis_juegos)
 
