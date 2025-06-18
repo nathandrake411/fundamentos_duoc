@@ -13,3 +13,4 @@ print(mis_juegos)
 mis_juegos.sort()
 print(mis_juegos)
 
+#el remove es mejor para eliminar algo en especifico
